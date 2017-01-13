@@ -1,0 +1,15 @@
+{
+    "name": "pixelfarms/kindle",
+    "description": "Installs some base laravel stuff",
+    "type": "laravel",
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Scott Phillips",
+            "email": "scott@pixelfarms.com"
+        }
+    ],
+
+    "minimum-stability": "stable"
+}
